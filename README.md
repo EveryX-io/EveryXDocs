@@ -11,4 +11,10 @@ EveryX is a different kind of prediction market – built from the ground up to 
 * Multi-Outcome markets- our system was built with choice in mind – no need to trade only on simple Yes/No outcomes.
 * Trades executed in an instant- our order matching logic processes trades in sub millisecond speeds.
 
+
+
+{% embed url="https://drive.google.com/file/d/1RD97GSTpu--JkqwF0rMBISWDdgvzXekB/view?usp=drive_link" %}
+
+
+
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="files"></th><th data-hidden></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>Getting Started</td><td>Getting Started</td><td></td><td></td><td><a href="/broken/pages/IkId1g8LBzrIqvmy5hVG">Broken link</a></td></tr><tr><td>Core Concepts</td><td>Core Concepts</td><td></td><td></td><td><a href="/broken/pages/0xYCwCkkOJE25bkr8Imn">Broken link</a></td></tr><tr><td>Trading Mechanics</td><td></td><td></td><td></td><td><a href="/broken/pages/X6bsj8tLE8NGrVEmY7N6">Broken link</a></td></tr><tr><td>Platform Info</td><td>Platform Info</td><td></td><td></td><td><a href="/broken/pages/3RqsPl1uxZjo8vIJpsUC">Broken link</a></td></tr></tbody></table>
