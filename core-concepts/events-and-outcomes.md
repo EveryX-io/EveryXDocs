@@ -1,6 +1,6 @@
 # Events and Outcomes
 
-#### What is an Event?
+### What is an Event?
 
 An Event is a real-world question that will eventually have a clear answer, for example:
 
@@ -14,7 +14,7 @@ Each Event has:
 * An end time (when trading closes),
 * A resolution time (when the outcome is known and payouts are made).
 
-#### Outcomes
+### Outcomes
 
 Each Event offers two or more Outcomes, for example:
 
@@ -30,7 +30,7 @@ Outcomes are designed to be:
 
 Users trade on which Outcome they think will be correct.
 
-#### How pricing works: crowd-priced outcome pools
+### How pricing works: crowd-priced outcome pools
 
 EveryX does not use a traditional order book with bids and asks.
 

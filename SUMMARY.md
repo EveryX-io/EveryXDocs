@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is EveryX?](README.md)
+* [How it works?](README.md)
 
 ## Getting Started
 

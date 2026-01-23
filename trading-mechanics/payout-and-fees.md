@@ -1,6 +1,6 @@
 # Payout and Fees
 
-#### How payouts work
+### How payouts work
 
 After an Event Closed, resolution criteria are checked and confirmed. Once a Resolution event has occurred:
 
@@ -13,7 +13,7 @@ After an Event Closed, resolution criteria are checked and confirmed. Once a Res
 
 Users see final results in their account as profit or loss.
 
-#### What are the fees?
+### What are the fees?
 
 EveryX charges a small platform fee from the losing side in each Event.
 
@@ -26,7 +26,7 @@ Key points:
 
 The fee structure is intentionally simple so that KOLs, partners, and users can easily understand how the platform earns money and what users can expect to receive when they win.
 
-#### Event lifecycle
+### Event lifecycle
 
 Each Event moves through a few clear stages:
 

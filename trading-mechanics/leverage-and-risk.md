@@ -1,6 +1,6 @@
 # Leverage and Risk
 
-#### What is leverage on EveryX?
+### What is leverage on EveryX?
 
 Leverage lets users control a larger position in an Outcome while only risking a smaller amount of their own cash (the “cash portion”).
 
@@ -15,7 +15,7 @@ Example (just to illustrate the idea):
 
 No interest is charged on the “borrowed” portion of a leveraged trade.
 
-#### The stop-loss
+### The stop-loss
 
 Every leveraged position has a stop-loss, expressed as a probability level:
 
@@ -34,13 +34,13 @@ You can also add margin later to reduce leverage and move the stop further away 
 
 EveryX has multiple layers of risk control
 
-#### User-level risk
+### User-level risk
 
 * Max loss = cash portion of the trade.
 * Stop-loss closes positions before losses exceed that cash portion.
 * Users can set stop warnings to get alerts when their position is close to being stopped-out, giving them a chance to add margin to move the stop further away.
 
-#### Event-level risk
+### Event-level risk
 
 Each Event can have:
 
@@ -50,7 +50,7 @@ Each Event can have:
 
 These settings can differ between Events (e.g., a high-profile, well-funded Event vs. a small niche Event).
 
-#### System-level risk
+### System-level risk
 
 At the platform level, EveryX:
 
