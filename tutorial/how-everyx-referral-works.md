@@ -35,3 +35,7 @@ Once a referral moves to "Completed," you can claim your $20 prize using one of 
 ### Step 5: Review Rules
 
 For detailed terms and conditions, click the Referral Rules button on the dashboard. This section explains eligibility requirements and restrictions to ensure fair play.
+
+
+
+{% embed url="https://drive.google.com/file/d/1lDgqu_DaPCfS1F3J18LaAy4vHrD1ljBa/view?usp=sharing" %}
