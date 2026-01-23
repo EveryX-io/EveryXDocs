@@ -19,6 +19,8 @@ layout:
 
 EveryX is a different kind of prediction market – built from the ground up to support built-in leverage and real-money trading on event probabilities. Users trade on probabilities of outcomes in sports, crypto, politics, weather, economics, markets, disasters and more!
 
+{% embed url="https://drive.google.com/file/d/1RD97GSTpu--JkqwF0rMBISWDdgvzXekB/view?usp=drive_link" %}
+
 ### More About EveryX
 
 EveryX is a player vs player (PVP)&#x20;prediction market, not a house-based&#x20;system. You trade against other&#x20;participants, with prices shaped by&#x20;market sentiment, and profits come from&#x20;opposing positions not from EveryX.
@@ -32,7 +34,9 @@ EveryX is a player vs player (PVP)&#x20;prediction market, not a house-based&#
 * Multi-Outcome markets- our system was built with choice in mind – no need to trade only on simple Yes/No outcomes
 * Trades executed in an instant- our order matching logic processes trades in sub millisecond speeds
 
-{% embed url="https://drive.google.com/file/d/1RD97GSTpu--JkqwF0rMBISWDdgvzXekB/view?usp=drive_link" %}
+
+
+{% embed url="https://drive.google.com/file/d/1hsj75vGfdaZdlOrerwK4oOs24gUL_d1a/view?usp=drive_link" %}
 
 ### Why EveryX is a game-changer
 
