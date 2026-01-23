@@ -22,7 +22,5 @@
 
 * [Accounts, deposits, and withdrawals (high-level)](platform-info/accounts-deposits-and-withdrawals-high-level.md)
 * [Glossary](platform-info/glossary.md)
-
-***
-
-* [Why EveryX? (positioning vs. other platforms)](why-everyx-positioning-vs.-other-platforms.md)
+* [Why EveryX? (positioning vs. other platforms)](platform-info/why-everyx-positioning-vs.-other-platforms.md)
+* [Community](platform-info/community.md)

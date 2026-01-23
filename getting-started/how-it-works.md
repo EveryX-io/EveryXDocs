@@ -11,3 +11,17 @@ Choose the outcome that looks best for you. Maybe you want to get paid if a hurr
 ### **Set-up Your Trade**
 
 Select the size of your trade, add up to 10x leverage if you like, confirm you’re comfortable with your risk level, and hit the Buy button. Congratulations, you just made your first trade!
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://www.facebook.com/reel/1371777447822497" %}
+{% endcolumn %}
+
+{% column valign="middle" %}
+
+{% endcolumn %}
+{% endcolumns %}
