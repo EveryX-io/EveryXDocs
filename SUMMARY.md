@@ -24,3 +24,12 @@
 * [Glossary](platform-info/glossary.md)
 * [Why EveryX? (positioning vs. other platforms)](platform-info/why-everyx-positioning-vs.-other-platforms.md)
 * [Community](platform-info/community.md)
+
+## Tutorial
+
+* [How to Deposit](tutorial/how-to-deposit.md)
+* [How to Withdraw](tutorial/how-to-withdraw.md)
+
+## Referral
+
+* [How EveryX Referral Works](referral/how-everyx-referral-works.md)
