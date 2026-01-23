@@ -29,7 +29,5 @@
 
 * [How to Deposit](tutorial/how-to-deposit.md)
 * [How to Withdraw](tutorial/how-to-withdraw.md)
-
-## Referral
-
-* [How EveryX Referral Works](referral/how-everyx-referral-works.md)
+* [How EveryX Referral Works](tutorial/how-everyx-referral-works.md)
+* [What is Leverage and Stopped Out](tutorial/what-is-leverage-and-stopped-out.md)

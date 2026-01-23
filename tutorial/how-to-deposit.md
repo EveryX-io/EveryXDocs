@@ -1,2 +1,2 @@
-# How to Deposit
+# How to Withdraw
 
