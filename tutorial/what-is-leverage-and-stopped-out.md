@@ -4,13 +4,13 @@
 
 Objective: This guide outlines the step-by-step process for opening a leveraged position on an Event.
 
-#### Step 1: Select Market & Buy
+### Step 1: Select Market & Buy
 
 1. Navigate to the Event you wish to trade.
 2. Identify your preferred Outcome (e.g., YES, Team A).
 3. Click the Buy option.
 
-#### Step 2: Configure Leverage & Size
+### Step 2: Configure Leverage & Size
 
 Once the trading panel opens, configure your position size and risk:
 
@@ -19,7 +19,7 @@ Once the trading panel opens, configure your position size and risk:
    * _Example:_ If you input $20 collateral and select Max Leverage, your total exposure becomes $200 (10x).
 2. Input Amount: Enter the cash amount you wish to risk.
 
-#### Step 3: Review Risk Metrics
+### Step 3: Review Risk Metrics
 
 Before confirming, review the dynamic data calculated by the engine:
 
@@ -27,13 +27,13 @@ Before confirming, review the dynamic data calculated by the engine:
 * Stop Level: The specific probability percentage at which your position will be liquidated (automatically closed) to prevent further loss.
 * Market Impact: The percentage by which your specific trade will shift the current market probability.
 
-#### Step 4: Confirm Execution
+### Step 4: Confirm Execution
 
 1. Click the Confirm button to execute the trade.
 
 > Danger: Once you press Confirm, the transaction is final. You cannot cancel a trade after execution; you must wait for the event resolution or manually close the position (if early exit is supported).
 
-#### Step 5: Verify & Monitor
+### Step 5: Verify & Monitor
 
 1. Look for the "Transaction Successful" notification.
 2.  Navigate to the Portfolio tab to view your positions.
