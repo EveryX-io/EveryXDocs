@@ -38,7 +38,7 @@ EveryX is a player vs player (PVP)&#x20;prediction market, not a house-based&#
 
 {% columns %}
 {% column %}
-**Old Way**
+**Old Way** :x:
 
 * Trading locked behind complex charts and jargon
 * Noise and bias dominate the news cycle
@@ -46,7 +46,7 @@ EveryX is a player vs player (PVP)&#x20;prediction market, not a house-based&#
 {% endcolumn %}
 
 {% column %}
-**With EveryX**
+**With EveryX** :heavy\_check\_mark:
 
 * Simple, browser-based prediction trading
 * Clean interface with transparent odds
