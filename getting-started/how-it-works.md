@@ -25,3 +25,23 @@ Select the size of your trade, add up to 10x leverage if you like, confirm youâ€
 
 {% endcolumn %}
 {% endcolumns %}
+
+### How is EveryX different from other prediction markets?
+
+The primary differentiator of the EveryX platform is Leverage.
+
+Unlike traditional prediction markets that typically operate on a 1:1 basis, EveryX allows traders to utilize leverage to amplify their market positions. This mechanic enables users with high conviction to execute larger plays and maximize capital efficiency.
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://www.facebook.com/reel/824610047001617" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
