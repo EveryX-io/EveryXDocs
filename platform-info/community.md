@@ -18,3 +18,21 @@ EveryX held its private launch with early believers, traders, and partners provi
 EveryX brought its vision to life with an IRL Race Night, combining sim racing challenges, a live F1 watch party, and trading sessions that connected partners, traders, and the community in one high-energy arena.
 
 {% embed url="https://drive.google.com/file/d/1yoLlBX0ArS3EzW72Hpy_cmUMowV_kS5d/view?usp=sharing" %}
+
+### EveryX in **Philippine GameDev Expo (PGDX)** 2025
+
+The EveryX-Gaming booth at SMX 2025, featuring the limited-edition merchandise drop in collaboration with WP Gaming.
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://www.facebook.com/reel/1499764524726294" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
