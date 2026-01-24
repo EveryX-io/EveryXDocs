@@ -32,5 +32,7 @@
 * [How to Withdraw](tutorial/how-to-withdraw.md)
 * [How EveryX Referral Works](tutorial/how-everyx-referral-works.md)
 * [What is Leverage and Stopped Out](tutorial/what-is-leverage-and-stopped-out.md)
-* [EveryX Socials](tutorial/everyx-socials/README.md)
-  * [Links](tutorial/everyx-socials/links.md)
+
+## Socials
+
+* [Links](socials/links.md)
