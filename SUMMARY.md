@@ -17,7 +17,7 @@
 * [Placing Trades](trading-mechanics/placing-trades.md)
 * [Leverage and Risk](trading-mechanics/leverage-and-risk.md)
 * [Payout and Fees](trading-mechanics/payout-and-fees.md)
-* [Community Trading Event Withdrawals](trading-mechanics/community-trading-event-withdrawals.md)
+* [How Funding Works](trading-mechanics/how-funding-works.md)
 
 ## Platform info
 
