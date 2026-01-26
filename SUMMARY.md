@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Main Site](README.md)
-* [What is EveryX?](<README (1).md>)
+* [Main Site](https://everyx.io/)
 
 ## Getting Started
 
+* [What is EveryX?](README.md)
 * [How it works](getting-started/how-it-works.md)
 * [Our Vision and Philosophy](getting-started/our-vision-and-philosophy.md)
 
