@@ -1,6 +1,25 @@
 # Table of contents
 
-* [Main Site](https://everyx.io/)
+## EveryX
+
+* [EveryX Main Site](https://everyx.io/)
+* [EveryX Discord/Support Server](https://discord.com/invite/everyx)
+
+## EveryX Prediction Market
+
+* [EveryX Facebook](https://www.facebook.com/EveryXPredictionMarket/)
+* [EveryX Instagram](https://www.instagram.com/everyx.io)
+* [EveryX X/Twitter](https://x.com/everyx_io)
+* [EveryX News Telegram](https://t.me/EveryXio_News)
+* [EveryX Community Chat Telegram](https://t.me/everyxio)
+* [EveryX Youtube](https://www.youtube.com/@everyx_io)
+* [EveryX Tiktok](https://www.tiktok.com/@everyx.io)
+
+## EveryX Gaming
+
+* [EveryX Gaming Facebook](https://www.facebook.com/EveryXGames)
+* [EveryX Gaming X/Twitter](https://x.com/everyx_gaming)
+* [EveryX Gaming Instagram](https://www.instagram.com/everyx_gaming)
 
 ## Getting Started
 
@@ -33,7 +52,3 @@
 * [How to Withdraw](tutorial/how-to-withdraw.md)
 * [How EveryX Referral Works](tutorial/how-everyx-referral-works.md)
 * [What is Leverage and Stopped Out](tutorial/what-is-leverage-and-stopped-out.md)
-
-## Socials
-
-* [Links](socials/links.md)
