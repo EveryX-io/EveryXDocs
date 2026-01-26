@@ -1,6 +1,7 @@
 # Table of contents
 
-* [What is EveryX?](README.md)
+* [Main Site](README.md)
+* [What is EveryX?](<README (1).md>)
 
 ## Getting Started
 
