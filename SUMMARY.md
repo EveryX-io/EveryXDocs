@@ -36,6 +36,7 @@
 * [How to Withdraw](tutorial/how-to-withdraw.md)
 * [How EveryX Referral Works](tutorial/how-everyx-referral-works.md)
 * [What is Leverage and Stopped Out](tutorial/what-is-leverage-and-stopped-out.md)
+* [How to Deposit & Withdraw via Mises Browser](tutorial/how-to-deposit-and-withdraw-via-mises-browser.md)
 
 ## Everyx Prediction Market
 
