@@ -6,7 +6,7 @@ Follow this guide to manage your funds on EveryX using the Mises mobile browser.
 
 #### Prerequisites
 
-* You must have the Mises Browser installed on your mobile device. (See our guide: [How to Set Up Mises Browser](https://www.google.com/search?q=%23)).
+* You must have the Mises Browser installed on your mobile device. (See our guide: [How to Set Up Mises Browser](https://www.google.com/search?q=%23How+to+Set+Up+Mises+Browser\&sca_esv=0bd1decbe45b1982\&ei=DaN5acPnEfbU1e8PvoCVmQE\&ved=0ahUKEwiDoubBxK2SAxV2avUHHT5AJRMQ4dUDCBE\&uact=5\&oq=%23How+to+Set+Up+Mises+Browser\&gs_lp=Egxnd3Mtd2l6LXNlcnAiHCNIb3cgdG8gU2V0IFVwIE1pc2VzIEJyb3dzZXIyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIYDGIoFMgUQABjvBTIFEAAY7wUyBRAAGO8FSMEMUKEGWKEGcAF4AJABAJgB9wGgAfcBqgEDMi0xuAEDyAEA-AEC-AEBmAICoAKJAsICCxAAGIAEGLADGLEDwgIIEAAYgAQYsAPCAg4QABiwAxjkAhjWBNgBAcICDhAuGIAEGLADGMgD2AEBwgIREC4YgAQYsAMYsQMYyAPYAQGYAwCIBgGQBhO6BgYIARABGAmSBwUxLjAuMaAHpAeyBwMyLTG4B_8BwgcFMi0xLjHIBw2ACAA\&sclient=gws-wiz-serp)).
 * You must have a small amount of POL (on Polygon Network) or BNB (on BNB Chain) in your wallet to pay for gas fees.
 
 ***
